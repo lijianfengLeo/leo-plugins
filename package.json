@@ -1,0 +1,20 @@
+{
+  "name": "leo-plugins",
+  "version": "1.0.0",
+  "description": "my function bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/listopen/leo-plugins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/listopen/leo-plugins/issues"
+  },
+  "homepage": "https://github.com/listopen/leo-plugins#readme"
+}
